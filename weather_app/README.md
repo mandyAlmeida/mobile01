@@ -1,16 +1,20 @@
-# weather_app
+📱 PISCINA DE MOBILE
 
-A new Flutter project.
+Descrição:
 
-## Getting Started
+Programa intensivo voltado ao desenvolvimento de aplicações mobile multiplataforma, com projetos em Flutter e React. Cada módulo apresentou desafios práticos e crescentes, desde a criação de interfaces básicas até aplicativos completos com autenticação e banco de dados.
 
-This project is a starting point for a Flutter application.
+🧮 Mobile 1 – Structure and Logic
 
-A few resources to get you started if this is your first Flutter project:
+🧩 Funcionalidade:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Desenvolvimento de um app com múltiplas telas, lógica condicional e fluxo de navegação dinâmico.
+Neste projeto aconteceu o desenvolvimento de um aplicativo de previsão do tempo, capaz de exibir informações climáticas em tempo real com base na localização do usuário ou em cidades pesquisadas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📚 Aprendizados:
+
+- Estrutura de pastas e componentes reutilizáveis
+
+- Comunicação entre telas
+
+- Manipulação de estados e propriedades
