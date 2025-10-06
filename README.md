@@ -23,6 +23,7 @@ Desenvolvimento de um app com múltiplas telas, lógica condicional e fluxo de n
 
 - Manipulação de estados e propriedades.
 
+
 🧠 Conteúdos aprendidos na criação do aplicativo:
 
 - Estruturação de interfaces com widgets.
@@ -34,3 +35,7 @@ Desenvolvimento de um app com múltiplas telas, lógica condicional e fluxo de n
 - Uso de geolocalização e permissões no mobile.
 
 - Organização de projeto, controle assíncrono e estilização de UI.
+
+Tecnologia utilizada:
+
+- Flutter (Dart)
